@@ -149,7 +149,7 @@
     "regenerator-runtime": "^0.13.7",
     "rich-markdown-editor": "^11.21.3",
     "semver": "^7.3.2",
-    "sequelize": "^6.9.0",
+    "sequelize": "^6.29.0",
     "sequelize-cli": "^6.3.0",
     "sequelize-encrypted": "^1.0.0",
     "slate": "0.45.0",
